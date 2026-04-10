@@ -1,8 +1,8 @@
 # Contacts-and-Suppliers-Management-System
 
 ## Video demonstration
-🇧🇷 Portuguese: https://www.youtube.com/watch?v=z_v58JwF5Sg
-🇺🇸 Technical walkthrough (English): https://www.youtube.com/watch?v=mafe6x81UYo
+🇧🇷 Portuguese: https://youtu.be/-xd3Hu5IC0I
+🇺🇸 Technical walkthrough (English): https://youtu.be/m6poyrLvpsk
 
 ## English
 
